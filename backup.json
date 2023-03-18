@@ -1,0 +1,475 @@
+[
+
+  {
+    "model": "posts.category",
+    "pk": 2,
+    "fields": {
+      "title": "Business",
+      "slug": "business"
+    }
+  },
+  {
+    "model": "posts.category",
+    "pk": 3,
+    "fields": {
+      "title": "Credit Repair",
+      "slug": "credit-repair"
+    }
+  },
+  {
+    "model": "posts.category",
+    "pk": 4,
+    "fields": {
+      "title": "Save Money",
+      "slug": "save-money"
+    }
+  },
+  {
+    "model": "posts.category",
+    "pk": 5,
+    "fields": {
+      "title": "Weight Loss",
+      "slug": "weight-loss"
+    }
+  },
+  {
+    "model": "posts.category",
+    "pk": 6,
+    "fields": {
+      "title": "Small Business",
+      "slug": "small-business"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "How Experian Improves Your Credit Score?",
+      "slug": "how-experian-improves-your-credit-score",
+      "overview": "More than 100 million Americans still struggle to access credit due to a low score or a bad credit history.",
+      "content": "<p>A credit score is one of the most sought-after financial statuses and having a good one gives you an edge, especially when trying to access credit. More than 100 million Americans still struggle to access credit due to a low score or a bad credit history. This may come from late payment on bills that occur more often in most households or irresponsibility when handling finances.</p>\r\n\r\n<p>Improving a credit score can last a long time, even when paying existing credit accounts on time. This financial discipline may be seen as one aspect that might improve one\u2019s credit score, but it is rarely acknowledged in their credit files. This is where Experian Boost comes in to help improve credit scores using payment history from utility and phone bills.</p>\r\n\r\n<p>Experian Boost helps consumers who have been making their bill payments on time add that history to their credit files, instantly improving their credit score. This can happen when consumers permit Experian to link to their online bank accounts to identify utility and telecommunication payments. All the consumer has to do is verify their data and confirm they want to be added to their Experian credit file. An updated credit score is then added instantly.</p>\r\n\r\n<p>The whole process is not complex as one might see it because it takes less than five minutes, with the resulting credit score boost being brought back almost immediately. Their quick responses are one area they put effort into, so one does not have to wait long for assessment. Financial activities involving signups are always a headache, but with Experian Boost, the process is easy and quick.</p>\r\n\r\n<p>This tool is free and helps those consumers who struggle most with building credit. 75% of consumers with FICO scores below 680 saw an improvement in their credit score with Experian Boost, according to research by Experian. This means that most consumers who signed up for the service improved their credit by a margin.</p>\r\n\r\n<p>A FICO Score founded by the Fair Isaac Corporation is a three-digit number based on one\u2019s credit report information. This number helps lenders determine how likely you are to repay a loan, how much you can borrow, how many months you have to repay, and the interest rate.</p>\r\n\r\n<p>Lenders will always look at this number when you want to access a loan and decide whether or not they can give you the money. According to the research, the risk predictiveness of boosted credit scores remained the same. Having Experian Boost improves your chances at a loan because of the increased credit score, which is assured with this product.</p>\r\n\r\n<p>Experian links bills like the water and cellphone service, which are paid monthly where one gets a positive credit when they make on-time payments. This raises one\u2019s potential for a better credit score. These payments are tracked by Experian Boost and are included in your credit report if they are positive.</p>\r\n\r\n<p>Utility, telecom, and streaming subscription payments are the most looked at when linking your account to Experian. Internet, mobile and landline, cable and satellite, gas and electric, and water are some payments Experian looks at.</p>\r\n\r\n<p>Experian may pull positive payments going as far back as 24 months, with late payments being ignored, although still advisable that they are cleared.</p>\r\n\r\n<p>Experian improves your credit score and updates your credit report and FICO every 30 days. You will also receive free credit monitoring alerts for your Experian credit report changes, including new account openings and balance updates. These alerts are essential because they ensure consumers know what is going on in their accounts and serve as a reminder of times they might be losing track of their payments.</p>\r\n\r\n<p>To sign up on Experian, you need to have at least one active credit account. Visit experian.com/boost to register. Sign up for a free Experian membership with no credit card required, and you will receive a free credit report and FICO Score immediately.</p>",
+      "timestamp": "2023-03-04T09:03:28.188Z",
+      "read_length": 5,
+      "comment_count": 13,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "How-Experian-Improves-Your-Credit-Score-768x523.jpg",
+      "primary_category": 3,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": 2,
+      "categories": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+      "title": "2 Ways to Save Money",
+      "slug": "2-ways-to-save-money",
+      "overview": "Overview of the second post",
+      "content": "<h1>No Content Available</h1>",
+      "timestamp": "2023-03-04T09:03:59.348Z",
+      "read_length": 5,
+      "comment_count": 4,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "featured-pic-2.jpeg",
+      "primary_category": 4,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": 1,
+      "next_post": 3,
+      "categories": [
+        4
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 3,
+    "fields": {
+      "title": "3 Types of Pizza To Lose Weight",
+      "slug": "3-types-of-pizza-to-lose-weight",
+      "overview": "Pizza is nom noms and losing weight is the bom boms",
+      "content": "If you're trying to lose weight but can't resist the temptation of a delicious pizza, don't worry - we've got you covered. Here are three types of pizza that will help you shed those pounds without sacrificing taste.\r\n\r\nFirst up, we have the \"Salad Pizza.\" This unique creation features a healthy salad as a topping, including leafy greens, carrots, and cucumber slices. Not only is it low in calories, but it also provides a satisfying crunch with every bite. And if you really want to go all out, you can even use a cauliflower crust for an extra dose of veggie goodness.\r\n\r\nNext on the list is the \"Veggie Supreme.\" Loaded with all kinds of colorful veggies, including bell peppers, onions, and mushrooms, this pizza is a great way to get your daily dose of vitamins and minerals. And since it's light on the cheese and sauce, it won't weigh you down like a traditional pizza would.\r\n\r\nLast but not least, we have the \"Fruit Pizza.\" Yes, you read that right - a pizza made with fruit! Simply top a whole wheat crust with your favorite fruits, such as strawberries, kiwi, and pineapple, and bake until crispy. This sweet and savory treat is the perfect guilt-free dessert.\r\n\r\nSo, there you have it - three types of pizza that will help you lose weight without feeling deprived. Who says you can't have your pizza and eat it too?",
+      "timestamp": "2023-03-04T09:04:39.045Z",
+      "read_length": 5,
+      "comment_count": 1,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_22.jpg",
+      "primary_category": 5,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": 2,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 4,
+    "fields": {
+      "title": "4 Deaths of Chuck Norris",
+      "slug": "4-deaths-of-chuck-norris",
+      "overview": "Chuck Norris does not get frostbite. Chuck Norris bites frost Chuck Norris does not sleep. He waits. Chuck Norris does not sleep. He waits, Remember the Soviet Union? They decided to quit after watching a DeltaForce marathon on Satellite TV, CNN was originally created as the \"Chuck Norris Network\" to update Americans with on-the-spot ass kicking in real-time Chuck Norris polishes his boots with melted children Chuck Norris counted to infinity - twice. Chuck Norris doesn't wear a watch. HE decides what time it is.",
+      "content": "<p>\r\nChuck Norris does not get frostbite. Chuck Norris bites frost Chuck Norris does not sleep. He waits. Chuck Norris does not sleep. He waits, Remember the Soviet Union? They decided to quit after watching a DeltaForce marathon on Satellite TV, CNN was originally created as the \"Chuck Norris Network\" to update Americans with on-the-spot ass kicking in real-time Chuck Norris polishes his boots with melted children Chuck Norris counted to infinity - twice. Chuck Norris doesn't wear a watch. HE decides what time it is.\r\n\r\nChuck Norris uses pepper spray to spice up his steaks. Chuck Norris is my Homeboy. CNN was originally created as the \"Chuck Norris Network\" to update Americans with on-the-spot ass kicking in real-time. Chuck Norris does not sleep. He waits. Police label anyone attacking Chuck Norris as a Code 45-11... a suicide What was going through the minds of all of Chuck Norris' victims before they died? His shoe. Chuck Norris taught Regan MacNeil how to turn her head 360 degrees Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.\r\n\r\nChuck Norris has no living enemies What was going through the minds of all of Chuck Norris' victims before they died? His shoe, Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse you in the face Someone once videotaped Chuck Norris getting pissed off. It was called Walker: Texas Chain Saw Massacre. Chuck Norris ran faster than the speed of light and went back in time... to roundhouse kick Einstein in the face. Chuck Norris can stand next to infinity and make it look small, Chuck Norris doesn't wear a watch. HE decides what time it is, Chuck Norris doesn't wear a watch. HE decides what time it is.\r\n\r\nChuck Norris does not sleep. He waits. There is no theory of evolution. Just a list of creatures Chuck Norris has allowed to live Chuck Norris can slam a revolving door Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out Chuck Norris is the reason why Waldo is hiding. Atlantis was there but Chuck Norris happend, There is no theory of evolution. Just a list of creatures Chuck Norris has allowed to live Chuck Norris originally appeared in the \"Street Fighter II\" video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked bout this \"glitch,\" Norris replied, \"That's no glitch.\", Chuck Norris will be hosting Prince William and Kate Middletons Bux and Hens night. He is also the wedding singer, DJ, and flower girl. When the Boogeyman goes to sleep every night, he checks his closet for Chuck Norris.\r\n\r\n</p>",
+      "timestamp": "2023-03-07T17:56:01.598Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "gallery-1.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 5,
+    "fields": {
+      "title": "5 ways to stop hunger",
+      "slug": "5-ways-to-stop-hunger",
+      "overview": "blah blah blah we are hungry",
+      "content": "<p>Arabica Acerbic Affogato Aftertaste Aged Americano And Aroma, Brewed crema frappuccino strong and skinny lait decaffeinated, qui so trifecta panna java aftertaste. Organic siphon et that aroma flavour Aged extraction viennese macchiato, white Americano Bar lungo frappuccino grinder acerbic kopi-luwak redeye, cup cream And trifecta Affogato filter americano Aroma. Cultivar au plunger et lungo seasonal trade Aged rich, variety mocha mug barista saucer irish organic extraction As, black blue dripper Americano latte shop americano. Latte single turkish medium carajillo espresso to Body macchiato grounds, at As And iced con Con breve cultivar froth, caffeine mug shot extraction french robust lungo spoon. Sweet Americano Affogato et Acerbic filter Aged Arabica medium Aromatic, spice americano dripper con cortado cup rich cinnamon kopi-luwak, crema turkish french origin variety java extra robusta.\r\n\r\nThat id so mocha espresso at breve Cappuccino cinnamon aroma, Brewed panna and variety cappuccino medium wings to redeye, flavour pumpkin latte rich shot blue seasonal et. Carajillo steamed chicory in body trade flavour americano cup, aged siphon sweet Aftertaste panna saucer trifecta At, rich that ut black french Brewed Cappuccino. Beans cream turkish carajillo instant brewed eu au blue shot frappuccino, ut shop Arabica Aromatic sit trifecta Affogato sweet At Bar, single dripper As to Acerbic And rich mocha press. Froth instant steamed breve cultivar shop viennese brewed sit au spice, french Aromatic sugar saucer spoon roast ut variety white Acerbic barista, Beans Aroma qui Arabica id Cappuccino extra Brewed Barista. Ut frappuccino Brewed Aged macchiato single cultivar aged At, beans  siphon Americano robust extra eu cortado trade, arabica grinder body Body id mocha aroma. Shop acerbic plunger et Acerbic Body mountain black qui siphon bar strong cappuccino cream milk latte, aromatic java extraction iced to viennese rich eu trifecta sweet dripper seasonal froth. Aroma decaffeinated At Bar lait so spice con trade, irish cinnamon single mazagran at Barista Beans frappuccino Americano, aromatic cappuccino roast qui organic pumpkin Body.\r\n\r\nExtra aged robust affogato Aromatic beans half milk aroma Con, Cappuccino fair shot Arabica spice mocha froth. At rich seasonal viennese in panna, spoon bar steamed cortado Body, turkish robust Blue shot. So macchiato Affogato pot java grounds Brewed irish cinnamon Beans white Aged, instant mazagran panna acerbic seasonal Americano shop medium brewed decaffeinated affogato, breve cortado pumpkin saucer frappuccino bar caffeine coffee id flavour. Cultivar as extra roast Aged At beans, rich trifecta bar breve robust latte Blue, macchiato Barista et black decaffeinated. Trifecta eu blue au cappuccino viennese white Affogato, skinny flavour panna acerbic french grinder decaffeinated affogato, qui And rich Arabica fair sit. Au strong filter au at origin As Arabica,  pumpkin Con spoon single ut decaffeinated breve, viennese caffeine latte Aromatic Aged And.\r\n\r\nEu Affogato con arabica lungo fair brewed panna white sit, espresso medium extra robust extraction dark acerbic shop latte irish, mountain robusta cup barista mocha organic mazagran single. Bar cream and shop Brewed americano Au et macchiato beans grounds, roast so frappuccino at id As acerbic that cappuccino, Aroma plunger origin white Aftertaste Barista viennese affogato filter. Half And and kopi-luwak Body to instant mazagran roast Au, variety lait dark as black panna trifecta cup, coffee aromatic iced macchiato plunger crema Aftertaste aged. Spice dripper crema instant siphon press steamed breve origin espresso Con, Aged id iced Affogato Aftertaste bar spoon at medium. Lungo dripper that affogato Bar con mug steamed Aftertaste trifecta, Aroma seasonal viennese grounds mocha brewed kopi-luwak Aged Arabica Acerbic, wings ut saucer cortado fair Blue coffee shop. Bar aged grounds filter And eu at qui aftertaste extraction plunger extra, breve half cinnamon As panna dripper saucer arabica irish single, siphon Barista trifecta cortado au spice chicory to sit Aftertaste. Decaffeinated body Arabica espresso et cultivar single aged organic, beans fair froth sweet Body filter aroma pumpkin au, lait breve Aftertaste press instant irish grinder.\r\n\r\nAftertaste caffeine saucer Acerbic coffee lait At mocha fair au, robusta origin siphon et sit panna seasonal bar frappuccino cappuccino, grinder press Blue that shop half carajillo Arabica. Turkish irish Aroma And mazagran grounds mountain Americano arabica mug Brewed steamed rich variety, sit americano Cappuccino lait single cream At wings pot and filter. Lait white Aged caramelization Cappuccino bar java mug, Aromatic affogato medium body strong Bar, at instant Arabica Au caffeine grinder. Ut spoon single organic black beans froth dripper seasonal spice, milk americano flavour barista mazagran cup dark breve, skinny trade iced panna Bar crema Affogato decaffeinated. Grounds kopi-luwak instant white barista eu french Affogato cup, iced carajillo mazagran cream froth Cappuccino And robust, that flavour redeye spice Beans origin viennese. Saucer in robusta trifecta mountain aromatic milk aftertaste plunger, coffee to cinnamon french Aroma trade id at flavour, crema sweet strong carajillo affogato cortado Body. Black siphon flavour milk seasonal Beans Barista, barista Au Brewed filter coffee shot, blue latte steamed dripper body. Aromatic con so beans aftertaste black grinder Arabica cappuccino, kopi-luwak Aroma half blue cinnamon cortado pot origin, Beans aged dripper dark mocha java trade.</p>",
+      "timestamp": "2023-03-07T17:56:40.316Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_5.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 6,
+    "fields": {
+      "title": "6 Signs You Need More Coffee",
+      "slug": "6-signs-you-need-more-coffee",
+      "overview": "Everyone needs coffee right? But do you know how much more you need?",
+      "content": "Coffee is the lifeblood of the modern human. Without it, our brains would grind to a halt like a rusty old engine. We need coffee to kickstart our minds in the morning and keep us going throughout the day. It's like a magical elixir that transforms us from groggy zombies into productive members of society.\r\n\r\nHave you ever tried to function without coffee? It's like trying to drive a car without gas. You might make it a few feet, but eventually, you're going to sputter out and come to a grinding halt. Coffee is the fuel that powers us through our daily grind. It's the nectar of the gods that keeps us sane in a crazy world.\r\n\r\nCoffee is the great equalizer. It doesn't matter if you're rich or poor, young or old, everyone needs a good cup of joe to get them through the day. It's the one thing that unites us all. When you're standing in line at the coffee shop, you're not thinking about your differences, you're thinking about your shared love of caffeine.\r\n\r\nLet's face it, life is hard. There are bills to pay, deadlines to meet, and a never-ending list of things to do. But with a cup of coffee in hand, suddenly everything seems a little bit more manageable. It's like a warm hug from a good friend or a pat on the back from a supportive mentor. Coffee is the ultimate pick-me-up, the secret weapon in our never-ending battle against the daily grind.",
+      "timestamp": "2023-03-08T16:04:26.295Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_10.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 7,
+    "fields": {
+      "title": "7 Questionably Deadly Sins",
+      "slug": "7-questionably-deadly-sins",
+      "overview": "You think you know about the 7 deadly sins... but what if they aren't quite as deadly as you thought?",
+      "content": "Once upon a time, there were seven deadly sins that roamed the world. These sins, often depicted as caricatures of mischievous little demons, were constantly causing trouble wherever they went. Whether it was the greed-filled gluttony constantly eating up resources or the lazy sloth that refused to do any work, they were always up to no good.\r\n\r\nDespite their reputation, the seven deadly sins were quite a lively bunch. They often found themselves engaged in fierce debates, each trying to outdo the other in terms of which sin was the most fun. Greed would boast about its endless hunger for riches, while lust would describe the pleasures of the flesh in vivid detail. Envy would complain about how everyone else had it better, while wrath would threaten to smash anyone who dared to cross it.\r\n\r\nPride, however, was always the most annoying of the sins. It would constantly talk about itself in the third person, going on and on about how it was the best and most important of them all. The other sins would roll their eyes and try to change the subject, but Pride was relentless. It even went so far as to commission a portrait of itself to hang on the wall, so it could admire its own beauty.\r\n\r\nAs for the other two sins, gluttony and sloth, they were often the butt of jokes among the other sins. Gluttony would constantly be found in the kitchen, stuffing its face with whatever food it could find, while sloth would be sleeping off a hangover somewhere. Despite their reputations, however, they were always welcome in the group. After all, what's a group of deadly sins without a few misfits?",
+      "timestamp": "2023-03-08T16:06:44.625Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "blog-post-4.jpeg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 8,
+    "fields": {
+      "title": "8 Ways to Cut Cheese",
+      "slug": "8-ways-to-cut-cheese",
+      "overview": "Ah, cheese! The one dairy product that's so versatile, you can have it for breakfast, lunch, dinner, and even dessert. But before you devour that block of cheddar or wheel of brie, you'll need to cut it first. Here are eight ways to cut cheese that are as silly as they are practical.",
+      "content": "Ah, cheese! The one dairy product that's so versatile, you can have it for breakfast, lunch, dinner, and even dessert. But before you devour that block of cheddar or wheel of brie, you'll need to cut it first. Here are eight ways to cut cheese that are as silly as they are practical.\r\n\r\nThe \"Swiss Army\" Cut: When you need to cut cheese on the go, nothing beats the trusty Swiss Army knife. With its myriad of blades and tools, you can slice, dice, and julienne your cheese with ease. Just make sure to clean it thoroughly before using the toothpick!\r\n\r\nThe \"Labyrinth\" Cut: For the cheese lover who loves a good puzzle, the labyrinth cut is a must-try. Using a sharp knife, carefully cut a maze-like pattern into the cheese, making sure not to cut all the way through. Then, challenge your guests to solve the maze and eat their way to the center.\r\n\r\nThe \"Croissant\" Cut: Want to impress your guests with your culinary skills? Try the croissant cut. Slice your cheese diagonally, but instead of separating the pieces, roll them up into a crescent shape. Serve on a platter with crackers and watch as your guests marvel at your creativity.\r\n\r\nThe \"Sculptor\" Cut: For the artistically inclined cheese lover, the sculptor cut is a work of art in itself. Using a sharp knife or cheese wire, carefully carve your cheese into a masterpiece. From animals to abstract designs, the possibilities are endless.\r\n\r\nThe \"Mousetrap\" Cut: Feeling mischievous? Create a cheese \"mousetrap\" by slicing a small piece of cheese and placing it on a mousetrap. Just make sure to warn your guests before they take a bite!\r\n\r\nThe \"Holey\" Cut: If you're a fan of Swiss cheese or any other cheese with holes, the holey cut is the way to go. Simply slice the cheese into wedges or cubes and make sure each piece has a hole in the center. Bonus points for the largest hole!\r\n\r\nThe \"Bite-Sized\" Cut: Perfect for parties or snacking, the bite-sized cut is a crowd-pleaser. Slice your cheese into small cubes or use a cookie cutter to make fun shapes. Serve with toothpicks and watch as your guests grab them by the handful.\r\n\r\nThe \"Melted\" Cut: For those who prefer their cheese melted, the melted cut is the way to go. Simply place your cheese on a hot skillet or in the oven and let it melt to perfection. Serve with crusty bread or use as a dip for chips and veggies.\r\n\r\nIn conclusion, cheese is more than just a food item; it's a work of art. With these eight ways to cut cheese, you can elevate your cheese game from basic to brilliant. So grab your knives and get ready to slice and dice your way to cheesy perfection!",
+      "timestamp": "2023-03-08T16:09:16.945Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_11.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 9,
+    "fields": {
+      "title": "9 Ways to Survive a Bear Attack",
+      "slug": "9-ways-to-survive-a-bear-attack",
+      "overview": "Surviving a bear attack might seem like an impossible feat, but it's actually quite easy if you follow these simple steps.",
+      "content": "Surviving a bear attack might seem like an impossible feat, but it's actually quite easy if you follow these simple steps. First and foremost, it's important to remember that bears are just like us, only hairier and more likely to maul you to death. So, in order to survive, you need to think like a bear. Start by curling up into a ball and pretending to hibernate. This will confuse the bear and make it think you're just another bear, which will hopefully deter it from attacking you.\r\n\r\nIf that doesn't work, try singing show tunes. Bears love music, especially Broadway show tunes. It's a little-known fact that bears are huge fans of Les Mis\u00e9rables and The Sound of Music. So, if you start belting out \"Do-Re-Mi\" or \"On My Own,\" the bear might just sit back and enjoy the show. Who knows, you might even get a standing ovation from your furry audience.\r\n\r\nIf the bear still insists on attacking you, it's time to break out the big guns - or rather, the big sticks. Bears are notorious for their love of stick-based games, such as fetch and tug-of-war. So, if you can find a stick and challenge the bear to a game of fetch, you just might be able to distract it long enough to make your escape. Of course, this strategy is only effective if the bear is in the mood for a friendly game of stick-based hijinks. If the bear is more interested in ripping you limb from limb, you're pretty much out of luck.\r\n\r\nFinally, if all else fails, just play dead. Bears love nothing more than a good corpse to gnaw on, so if you can convince the bear that you're already dead, it might just leave you alone. Of course, this strategy does have its drawbacks, such as the fact that you might actually end up dead if the bear decides to take a bite out of you. But hey, at least you tried, right? And who knows, maybe you'll get lucky and the bear will take pity on you and decide to spare your life. It's a long shot, but hey, stranger things have happened in the wild world of bear attacks.",
+      "timestamp": "2023-03-08T16:14:39.250Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_12.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 10,
+    "fields": {
+      "title": "10 Ways to Turn Your Houseplants into Fashion Accessories",
+      "slug": "10-ways-to-turn-your-houseplants-into-fashion-accessories",
+      "overview": "Houseplants aren't just for decorating your home anymore - they can now be used to add a touch of flair to your wardrobe. Here are 10 ways to turn your houseplants into fashion accessories:",
+      "content": "Houseplants aren't just for decorating your home anymore - they can now be used to add a touch of flair to your wardrobe. Here are 10 ways to turn your houseplants into fashion accessories:\r\n\r\nWear a small cactus as a brooch to add some spiky sophistication to your outfit.\r\nUse a snake plant as a belt to cinch in your waist and make a bold statement.\r\nTurn a spider plant into a hair accessory for a touch of whimsy.\r\nUse a philodendron leaf as a pocket square for a unique and eco-friendly touch.\r\nWear a succulent as a necklace to add some greenery to your look.\r\nUse a fern frond as a bow tie to make a dapper impression.\r\nWear a monstera leaf as an earring to add some tropical flair.\r\nUse a small ivy plant as a bracelet to create a delicate and unique piece.\r\nWear a sunflower as a ring for a bold and dramatic statement.\r\nUse a venus flytrap as a brooch to add some edge to your outfit.\r\nWith these tips, you'll never look at your houseplants the same way again.",
+      "timestamp": "2023-03-08T16:25:07.102Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_13.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 11,
+    "fields": {
+      "title": "11 Surprising Uses for Toothpaste That Will Blow Your Mind",
+      "slug": "11-surprising-uses-for-toothpaste-that-will-blow-your-mind",
+      "overview": "Toothpaste is a miracle product that can do more than just clean your teeth. Here are 11 surprising uses for toothpaste that will blow your mind:",
+      "content": "Toothpaste is a miracle product that can do more than just clean your teeth. Here are 11 surprising uses for toothpaste that will blow your mind:\r\n\r\nUse toothpaste to polish silverware for a sparkling shine.\r\nApply toothpaste to insect bites to reduce swelling and itching.\r\nUse toothpaste to remove scratches from your phone screen.\r\nApply toothpaste to your nails to whiten and strengthen them.\r\nUse toothpaste to clean your car headlights for a brighter shine.\r\nApply toothpaste to acne for a quick and easy spot treatment.\r\nUse toothpaste to remove stubborn stains from clothing.\r\nApply toothpaste to a hickey to help it fade faster.\r\nUse toothpaste to clean grout for a fresh and bright bathroom.\r\nApply toothpaste to shoe scuffs to make them disappear.\r\nUse toothpaste to clean your keyboard for a germ-free workspace.\r\nWith these tips, you'll never look at your toothpaste the same way again.",
+      "timestamp": "2023-03-08T16:26:35.667Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_20.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 12,
+    "fields": {
+      "title": "12 Easy Steps to Becoming a Professional Couch Potato",
+      "slug": "12-easy-steps-to-bcoming-a-professional-couch-potato",
+      "overview": "Do you dream of spending all day lounging on the couch? Well, with these 12 easy steps, you can turn your couch-potato dreams into a reality:",
+      "content": "Do you dream of spending all day lounging on the couch? Well, with these 12 easy steps, you can turn your couch-potato dreams into a reality:\r\n\r\nFind a comfortable couch to spend your days on.\r\nInvest in a good set of pajamas for optimal comfort.\r\nStock up on your favorite snacks and beverages.\r\nGet a good TV or streaming service to keep you entertained.\r\nFind a comfortable position and settle in.\r\nDon't forget to stretch every so often to avoid stiffness.\r\nUse a blanket or throw pillow to make yourself extra cozy.\r\nSet up a snack station within arm's reach for easy access.\r\nTake regular naps to keep your energy up.\r\nKeep your phone or other devices close by for easy scrolling.\r\nHave a bathroom and food delivery plan in place to minimize disruptions.\r\nFinally, remember to enjoy your newfound couch-potato lifestyle!\r\nWith these tips, you'll be well on your way to becoming a professional couch potato in no time.",
+      "timestamp": "2023-03-08T16:27:45.652Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_15.jpg",
+      "primary_category": 5,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 13,
+    "fields": {
+      "title": "13 Reasons Why Cats Make Better Bosses Than Humans",
+      "slug": "why-cats-are-the-better-bosses",
+      "overview": "We've all had to deal with a terrible boss at some point in our lives. But what if we told you that there's a better option out there? That's right, cats make the best bosses, and here are 13 reasons why:",
+      "content": "We've all had to deal with a terrible boss at some point in our lives. But what if we told you that there's a better option out there? That's right, cats make the best bosses, and here are 13 reasons why:\r\n\r\nThey're always taking naps, so you don't have to worry about being bothered.\r\nThey're great at delegating tasks (mostly to you).\r\nThey don't get upset when you bring them a dead mouse as a gift.\r\nThey're always impeccably groomed, so you don't have to worry about dress codes.\r\nThey don't care if you're working from home in your pajamas.\r\nThey're experts at keeping a clean workspace (mostly by knocking everything off your desk).\r\nThey're great at giving feedback (mostly in the form of meows).\r\nThey're not afraid to take risks (like climbing up to high shelves).\r\nThey're excellent at time management (mostly because they sleep for 16 hours a day).\r\nThey're always up for a good cuddle break.\r\nThey're expert problem solvers (mostly when it comes to opening doors).\r\nThey're great at multitasking (mostly by eating and sleeping at the same time).\r\nThey're just so darn cute!",
+      "timestamp": "2023-03-08T16:29:47.844Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_16.jpg",
+      "primary_category": 5,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        3,
+        5
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 14,
+    "fields": {
+      "title": "14 Outrageous Hairstyles That Are Sure to Turn Heads (and Stomachs)",
+      "slug": "the-most-outrageous-hairstyles-ever",
+      "overview": "Are you tired of your boring old hairstyle? Do you want to make a statement with your hair? Look no further than these 14 outrageous hairstyles that are sure to turn heads (and stomachs):",
+      "content": "Are you tired of your boring old hairstyle? Do you want to make a statement with your hair? Look no further than these 14 outrageous hairstyles that are sure to turn heads (and stomachs):\r\n\r\nThe Unicorn Horn: A spiral horn made out of rainbow hair.\r\nThe Mullet Hawk: A combination of a mullet and a mohawk.\r\nThe Rat's Nest: A pile of tangled hair on top of your head.\r\nThe Faux Hawk Hawk: A mohawk made out of feathers.\r\nThe Pineapple: A hairstyle that looks like a pineapple.\r\nThe Toilet Bowl: A hairstyle that looks like a toilet bowl.\r\nThe Hair Cape: A cape made out of hair.\r\nThe Beard Braid: A braid made out of your beard (if you have one).\r\nThe Fish Tail: A braid made to look like a fish tail.\r\nThe Headband of Hair: A headband made out of your own hair.\r\nThe Big Bang: A hairstyle that looks like the Big Bang explosion.\r\nThe Rainbow Afro: An afro made out of rainbow hair.\r\nThe Hair Bow: A bow made out of your own hair.\r\nThe Antlers: Antlers made out of hair.",
+      "timestamp": "2023-03-08T16:31:00.100Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_2.jpg",
+      "primary_category": 6,
+      "featured": false,
+      "top_pick": false,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        2,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 15,
+    "fields": {
+      "title": "15 Ways to Use Leftover Pizza That You've Never Even Thought Of",
+      "slug": "leftover-pizza-ideas",
+      "overview": "We've all been there - staring at a half-eaten pizza and wondering what to do with the leftovers. Sure, you could just reheat it and call it a day, but where's the fun in that? With these 15 creative leftover pizza ideas, you'll never waste a slice again.",
+      "content": "We've all been there - staring at a half-eaten pizza and wondering what to do with the leftovers. Sure, you could just reheat it and call it a day, but where's the fun in that? With these 15 creative leftover pizza ideas, you'll never waste a slice again.\r\n\r\nPizza Breakfast Burritos - Heat up your leftover pizza, wrap it in a tortilla, add some scrambled eggs, and voila - breakfast is served!\r\nPizza Grilled Cheese - Take two slices of bread, put some cheese and leftover pizza in between, and grill it up for a deliciously cheesy sandwich.\r\nPizza Quesadillas - Same concept as the grilled cheese, but with a tortilla instead of bread.\r\nPizza Fries - Slice up your leftover pizza into small strips, and sprinkle it on top of some french fries for a savory snack.\r\nPizza Nachos - Same concept as the pizza fries, but with tortilla chips instead of fries.\r\nPizza Omelet - Chop up your leftover pizza and add it to your omelet for a delicious and filling breakfast.\r\nPizza Mac and Cheese - Cook up some mac and cheese, and add your leftover pizza to the mix for an extra cheesy meal.\r\nPizza Salad - Chop up your leftover pizza and add it to a salad for a delicious and unexpected twist.\r\nPizza Casserole - Layer your leftover pizza in a casserole dish with some tomato sauce and cheese for a baked dish that's sure to please.\r\nPizza Grilled Chicken - Top a grilled chicken breast with some leftover pizza and bake it in the oven for a tasty and easy meal.\r\nPizza Frittata - Add your leftover pizza to some eggs and bake it in the oven for a delicious and easy brunch dish.\r\nPizza Tacos - Heat up your leftover pizza, chop it up, and add it to a taco shell with some toppings for a fun and easy dinner.\r\nPizza Flatbread - Take some pita bread, add some tomato sauce, cheese, and leftover pizza, and bake it in the oven for a crispy and delicious meal.\r\nPizza Burger - Add some leftover pizza to a burger patty and top it with some mozzarella cheese for a pizza-inspired burger.\r\nPizza Lasagna - Layer some leftover pizza with lasagna noodles, tomato sauce, and cheese for a baked dish that's sure to impress.",
+      "timestamp": "2023-03-08T16:33:08.412Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_17_PVI7pzb.jpg",
+      "primary_category": 6,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 16,
+    "fields": {
+      "title": "16 Absurdly Easy DIY Projects That You'll Never Actually Finish",
+      "slug": "16-absurdly-easy-diy-projects-youll-never-finish",
+      "overview": "If you're anything like me, you love the idea of DIY projects. The thought of creating something beautiful and functional with your own two hands is just too irresistible.",
+      "content": "<p>If you're anything like me, you love the idea of DIY projects. The thought of creating something beautiful and functional with your own two hands is just too irresistible. But let's be real, most of us never actually finish the projects we start. We get halfway through and realize that we have no idea what we're doing, or we get distracted by something shiny and forget about the project altogether.</p>\r\n\r\n<p>That's why we've compiled a list of <strong>16 absurdly easy DIY projects that you'll never actually finish.</strong> First up, we have the \"Mason Jar Chandelier.\" All you need is a bunch of mason jars and some twine, and you can create a stunning light fixture that will make your friends and family green with envy. But let's face it, you'll get halfway through and realize that you have no idea how to wire the darn thing, and you'll end up with a pile of mason jars on your kitchen table.</p>\r\n\r\n<p>Next on the list is the \"Pallet Coffee Table.\" Who needs a boring old store-bought coffee table when you can make your own out of a pallet? This project is so easy, all you need is a saw and some wood glue. But let's be real, you'll get halfway through and realize that you have no idea how to use a saw, and you'll end up with a pile of splintered wood in your living room.</p>\r\n\r\n<p>Moving on, we have the \"Vintage Suitcase Shelves.\" This project is perfect for anyone who loves shabby chic decor. All you need is a few old suitcases and some brackets, and you can create some seriously stylish shelving. But let's face it, you'll get halfway through and realize that you have no idea how to hang shelves, and you'll end up with a pile of suitcases in your hallway.</p>\r\n\r\n<p>Last but not least, we have the \"Corkboard Map.\" This project is perfect for anyone who loves to travel. All you need is a map and some wine corks, and you can create a beautiful corkboard map to display all of your travel photos. But let's be real, you'll get halfway through and realize that you've run out of corks, and you'll end up with a sad and empty map on your wall.</p>\r\n\r\n<p>So there you have it, <strong>16 absurdly easy DIY projects that you'll never actually finish.</strong> But hey, at least you can say you tried, right? Just don't be too hard on yourself when you end up with a pile of half-finished projects cluttering up your house. Embrace the chaos and enjoy the journey.</p>",
+      "timestamp": "2023-03-08T16:35:34.251Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_18.jpg",
+      "primary_category": 6,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        3,
+        6
+      ]
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 17,
+    "fields": {
+      "title": "17 Creative Uses for Bubble Wrap That Will Change Your Life Forever",
+      "slug": "17-creative-uses-bubble-wrap-change-life-forever",
+      "overview": "Are you tired of using bubble wrap for its intended purpose of protecting fragile items during shipping? Well, fear not, because we've compiled a list of 17 creative uses for bubble wrap that will change your life forever - or at least make it a little more interesting.",
+      "content": "Are you tired of using bubble wrap for its intended purpose of protecting fragile items during shipping? Well, fear not, because we've compiled a list of 17 creative uses for bubble wrap that will change your life forever - or at least make it a little more interesting.\r\n\r\nFirst on our list: bubble wrap wallpaper. That's right, forget about boring old paint or wallpaper, why not cover your walls in bubble wrap instead? Not only will it look cool, but you can also pop the bubbles whenever you need a quick stress-reliever.\r\n\r\nNext up, bubble wrap fashion. Who needs expensive designer clothing when you can just wrap yourself in bubble wrap? Not only is it stylish (in a slightly ridiculous way), but it's also a great way to keep warm during those chilly winter months. Just be prepared for the stares and confused looks from strangers.\r\n\r\nAnd let's not forget about bubble wrap gardening. Instead of using traditional soil, why not fill your garden with bubble wrap? Not only will it add an interesting texture, but it will also help retain moisture and provide extra insulation for your plants. Plus, it's a great way to recycle all that bubble wrap you've been hoarding.\r\n\r\nIn conclusion, bubble wrap is no longer just for protecting your breakables. With these 17 creative uses, you'll be able to transform your life in ways you never thought possible. So, the next time you receive a package filled with bubble wrap, don't just toss it aside - embrace its potential and let your imagination run wild.",
+      "timestamp": "2023-03-08T16:37:47.809Z",
+      "read_length": 5,
+      "comment_count": 0,
+      "view_count": 0,
+      "author": 1,
+      "thumbnail": "extra_img_21.jpg",
+      "primary_category": 6,
+      "featured": true,
+      "top_pick": true,
+      "recommended": true,
+      "previous_post": null,
+      "next_post": null,
+      "categories": [
+        3,
+        6
+      ]
+    }
+  }
+
+]
